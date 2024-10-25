@@ -5,9 +5,9 @@
   <img src="https://sunilsinghtarkar.github.io/image/coderGif.gif" alt="coding" width="400"/>
 </div>
 
-- 🔭 I’m currently working on **data analysis projects to deepen my expertise and explore new facets of data analytics. Focused on developing dashboards and models that tackle diverse business challenges and enhance data-driven decision-making.**
+- 🔭 I’m currently working on **data analysis projects that involve building advanced dashboards and models. These projects aim to solve complex business problems, optimize decision-making, and provide actionable insights from data.**
   
-- 🌱 I’m currently learning **Data analytics techniques**
+- 🌱 I'm expanding my skillset by learning **advanced data analytics techniques, including statistical analysis, machine learning, and data visualization, to enhance my expertise and stay updated with industry trends.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasbhui?tab=repositories](https://github.com/manasbhui?tab=repositories)
 
