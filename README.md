@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Bhui</h1>
 <h3 align="center">A Proud Indian | Continuous Learner | Industry 4.0 Gold Medalist | Aspiring Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src= "https://sunilsinghtarkar.github.io/image/coderGif.gif" >
+<div align="center">
+  <img src="https://sunilsinghtarkar.github.io/image/coderGif.gif" alt="coding" width="400"/>
+</div>
 
+- 🔭 I’m currently working on **data analysis projects to deepen my expertise and explore new facets of data analytics. Focused on developing dashboards and models that tackle diverse business challenges and enhance data-driven decision-making.**
+  
 - 🌱 I’m currently learning **Data analytics techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasbhui?tab=repositories](https://github.com/manasbhui?tab=repositories)
